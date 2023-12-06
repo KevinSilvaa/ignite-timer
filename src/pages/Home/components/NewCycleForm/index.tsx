@@ -3,7 +3,7 @@ import { FormContainer, TaskInput, MinutesAmountInput } from "./styles";
 
 // Strategic Imports
 import { useContext } from "react";
-import { CyclesContext } from "../..";
+import { CyclesContext } from "../../../../contexts/CyclesContext";
 import { useFormContext } from "react-hook-form";
 
 export function NewCycleForm() {
