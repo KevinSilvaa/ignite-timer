@@ -1,10 +1,8 @@
 <div align="center">
   <h1>Ignite Timer ⏰</h1>
 
-  <img src="https://github.com/KevinSilvaa/ignite-timer/assets/143517496/2e6a553b-9c1d-411b-8cd0-6ff0805a9e61" />
+  ![Ignite Timer Home](https://github.com/KevinSilvaa/ignite-timer/assets/143517496/2e6a553b-9c1d-411b-8cd0-6ff0805a9e61)
 </div>
-
-
 
 <h3 align="center">Projeto realizado durante a trilha para especialização em ReactJS da Rocketseat</h3> <br><br>
 
@@ -38,7 +36,6 @@ algumas outras bibliotecas.
   - `Phosphor Icons`; Utilizado para importar ícones de uma maneira mais simples.
   - `Date-fns`; Utilizado para formatar as datas da aplicação.
   
-
 &nbsp;
 &nbsp;
 &nbsp;
